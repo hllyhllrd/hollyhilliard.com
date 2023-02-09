@@ -2,7 +2,7 @@
 author:
 date: "2023-01-01"
 draft: false
-excerpt: View my amateur bird photography.
+excerpt: Check out my amateur bird photography.
 featured: true
 layout: single
 subtitle: ""
