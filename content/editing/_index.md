@@ -6,7 +6,7 @@ description: |
   Holly's Website
 show_header: false
 sidebar_left: true
-title: Take 2
+title: Editing
 ---
 
 ** index doesn't contain a body, just front matter above.
