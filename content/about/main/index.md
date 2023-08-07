@@ -7,11 +7,11 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
 
-  # Official Bio 
+# Official Bio 
   
 Holly Hilliard grew up in Hillsboro, Ohio. She received her MFA in Fiction from North Carolina State University, where she was the winner of the 2018 James Hurst Prize for Fiction. She now lives with her husband and two cats in Pittsburgh, PA, where she teaches creative writing.
   
-  # Unofficial Bio
+# Unofficial Bio
   
 I’m Holly Hilliard from Hillsboro, Ohio, and I appreciate alliteration!
 
