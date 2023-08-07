@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Holly Hilliard is a writer based in Madison, Wisconsin.
+description: Holly Hilliard is a writer based in Pittsburgh, PA.
 image_left: true
 images:
 - img/holly.jpg
