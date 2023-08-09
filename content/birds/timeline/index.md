@@ -10,7 +10,7 @@ title: How I became a birder
 ---
 Holly's birding timeline:
 
-*2010*: I took Italian in college, and we learned how to talk about things we liked and didn't like. I remember telling everyone that I didn't like birds. It was easy to say in Italian, plus the only birds I ever noticed were the house sparrows eating crumbs on the plaza. I wasn't particularly interested in them.
+**2010**: I took Italian in college, and we learned how to talk about things we liked and didn't like. I remember telling everyone that I didn't like birds. It was easy to say in Italian, plus the only birds I ever noticed were the house sparrows eating crumbs on the plaza. I wasn't particularly interested in them.
 
 **2015**: I was working in publishing when I encountered a book proposal by a science writer. It was all about bird migration. Suddenly I found myself thinking, "Wow. Birds are cool."
 
