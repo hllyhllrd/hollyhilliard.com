@@ -4,8 +4,6 @@ draft: false
 excerpt: And how you can, too.
 layout: single
 subtitle:
-tags:
-- hugo-site
 title: How I became a birder
 ---
 Everyone comes to birds differently. Here are the things that got me excited about birding.
