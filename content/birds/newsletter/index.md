@@ -1,8 +1,11 @@
 ---
 date: "2023-02-01"
 draft: false
-excerpt: My monthly bird newsletter
+excerpt: My monthly bird newsletter on Substack.
 layout: single
 title: Owl My Children
 ---
-I love birds so much that I even write a monthly newsletter about my birding adventures. To join the mailing list, click [here](https://tinyletter.com/hollybirds). You can also view the archive of past newsletters [here](https://tinyletter.com/hollybirds/archive).
+I love birds so much that I even write a free monthly newsletter on Substack about my birding adventures. To view my Substack, including the full archive of past newsletters, click [here](https://hollyhilliard.substack.com?utm_source=navbar&utm_medium=web&r=2n5utp). 
+
+To join the mailing list, click [here](https://hollyhilliard.substack.com/about). 
+
