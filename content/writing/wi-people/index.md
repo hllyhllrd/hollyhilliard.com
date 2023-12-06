@@ -21,4 +21,4 @@ Holly's short story "Zugunruhe" won third place in the 2023 [Wisconsin People an
 
 The story will be published in the 2024 summer issue of Wisconsin People & Ideas, a magazine published by the Wisconsin Academy of Sciences, Arts & Letters.
 
-Holly's work will also be featured in the [2024 Wisconsin Book Festival](https://www.wisconsinbookfestival.org/events/wisconsin-people-ideas-2023-fiction-and-poetry-contest-winners).
+Holly also read an excerpt from her story at the [2023 Wisconsin Book Festival](https://www.wisconsinbookfestival.org/events/wisconsin-people-ideas-2023-fiction-and-poetry-contest-winners).You can watch a recording of the reading [here](https://www.crowdcast.io/c/wbf-wpi-reading).
