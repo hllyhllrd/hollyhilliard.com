@@ -28,9 +28,9 @@ No matter what outing I go on, I try to make it a goal to learn just one thing, 
 
 ## 4) I started volunteering. 
 
-I first volunteered with the [Badgerland Bird Alliance](https://madisonaudubon.org/volunteer), formerly Madison Audubon, in 2019. Every Saturday, my husband and I went out to one of the land sanctuaries and learned about a new prairie plant, then helped collect seeds that would be used to restore prairies in the area.
+I first volunteered with the [Southern Wisconsin Bird Alliance](https://swibirds.org/), formerly Madison Audubon, in 2019. Every Saturday, my husband and I went out to one of the land sanctuaries and learned about a new prairie plant, then helped collect seeds that would be used to restore prairies in the area.
 
-Later, we also joined [Bald Eagle Nest Watch](https://madisonaudubon.org/bald-eagle-nest-watch). We watched an eagle nest once a week from January to July and recorded our observations about what was happening in the nest. I loved the program so much that I also signed up for the [Kestrel Nestbox Monitoring Program](https://madisonaudubon.org/kestrels), where I got to check a kestrel box once a week and eventually attend a kestrel banding session. In three years, my nest box never did attract a kestrel pair, but it was still fun to try.
+Later, we also joined [Bald Eagle Nest Watch](https://swibirds.org/bald-eagle-nest-watch). We watched an eagle nest once a week from January to July and recorded our observations about what was happening in the nest. I loved the program so much that I also signed up for the [Kestrel Nestbox Monitoring Program](https://swibirds.org/kestrels), where I got to check a kestrel box once a week and eventually attend a kestrel banding session. In three years, my nest box never did attract a kestrel pair, but it was still fun to try.
 
 ## 5) I invested in gear.
 
@@ -58,4 +58,4 @@ The first bird book I ever read was when I was still working in publishing, back
 
 If you want a good field guide for identifying birds, I'm a fan of the [Sibley Guides](https://www.sibleyguides.com/). I also love [The Warbler Guide](https://press.princeton.edu/books/paperback/9780691154824/the-warbler-guide) by Tom Stephenson and Scott Whittle.
 
-If you're looking for good books about birds or nature, I recommend Scott Weidensaul's [A World on the Wing](https://wwnorton.com/books/9780393608908), Aimee Nezhukumatathil's [World of Wonders](https://milkweed.org/author/aimee-nezhukumatathil), Robin Wall Kimmerer's [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), or [A Sand County Almanac](https://www.aldoleopold.org/about/aldo-leopold/sand-county-almanac/) by Aldo Leopold.
+If you're looking for good books about birds or nature, I recommend Scott Weidensaul's [A World on the Wing](https://wwnorton.com/books/9780393608908), Aimee Nezhukumatathil's [World of Wonders](https://milkweed.org/author/aimee-nezhukumatathil), Robin Wall Kimmerer's [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), and [A Sand County Almanac](https://www.aldoleopold.org/about/aldo-leopold/sand-county-almanac/) by Aldo Leopold.
