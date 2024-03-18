@@ -13,11 +13,11 @@ intro: |
   
  # Unofficial Bio
   
- I’m Holly Hilliard from Hillsboro, Ohio, and I appreciate alliteration!
+ I’m Holly Hilliard from Hillsboro, Ohio, and I appreciate alliteration.
 
- I grew up in a town of 6,000 or so people in the Appalachian foothills. The cool kids were very into football, but I preferred choir, concert band, and reading books about dragons. I attended Duke University and surprised everyone by choosing to camp out in K-Ville for basketball tickets pretty much every spring.
+ My hometown is in the Appalachian foothills and has a population of about 6,000 people. My school got a week off every year for the county fair, plus a day off for the first day of deer hunting season. I preferred choir, concert band, and reading books about dragons. I attended Duke University and surprised everyone by choosing to camp out in K-Ville for basketball tickets pretty much every spring.
 
- I was an intern at One Story magazine and at Algonquin Books of Chapel Hill before working as an assistant at a literary agency in NYC. I left publishing to work in legal operations, but my dream of being a writer could not be quashed (legal joke!). In 2019, I graduated with an MFA in Creative Writing from North Carolina State University, where I completed a short story collection, taught fiction workshops for undergrads, and guzzled coffee well past 4 PM. I moved to Madison, Wisconsin where I learned to love the winter (honestly!) and then to Pittsburgh, PA.
+ I was an intern at One Story magazine and at Algonquin Books of Chapel Hill before working as an assistant at a literary agency in NYC. I left publishing to work in legal operations, but my dream of being a writer could not be quashed (legal joke!). In 2019, I graduated with an MFA in Creative Writing from North Carolina State University, where I completed a short story collection and taught fiction workshops for undergrads. I moved to Madison, Wisconsin and fell in love with birds, prairies, and ice skating. In 2023 my husband and I moved to Pittsburgh, PA.
 
  Now, I’m hard at work on a YA novel as well as some short stories for adults. When I’m not writing, I’m birding! I have many favorite birds, but today it’s the sandhill crane. Did you know the oldest confirmed sandhill crane fossil was found in Florida and is estimated to be 2.5 million years old?
 
