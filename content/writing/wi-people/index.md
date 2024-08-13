@@ -6,7 +6,7 @@ date: "2023-08-07"
 date_end: "2023-08-07"
 draft: false
 
-excerpt: Holly's short story "Zugunruhe" won third place in the 2023 Wisconsin People & Ideas Fiction Contest judged by Debra Monroe. It appeared in the Summer 2024 issue of Wisconsin People & Ideas, a magazine published by the Wisconsin Academy of Sciences, Arts & Letters. Click here to read the story and see Holly read an excerpt at the 2023 Wisconsin Book Festival.
+excerpt: Holly's short story "Zugunruhe" won third place in the 2023 Wisconsin People & Ideas Fiction Contest judged by Debra Monroe. Click [here](https://www.wisconsinacademy.org/magazine/summer-2024/fiction/zugunruhe) to read her story in the Summer 2024 issue of Wisconsin People & Ideas.
 
 featured: true
 layout: single
