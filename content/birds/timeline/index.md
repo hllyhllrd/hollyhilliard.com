@@ -4,8 +4,10 @@ draft: false
 excerpt: And how you can, too!
 layout: single
 subtitle:
-title: How I became a birder
+title: How Holly became a birder
 ---
+In Holly's words: 
+
 Everyone comes to birds differently. Here are some things that got me excited about birding, in case they're helpful for your own birding journey!
 
 ## 1) I watched online bird cams.
@@ -59,3 +61,7 @@ The first bird book I ever read was when I was still working in publishing, back
 If you want a good field guide for identifying birds, I'm a fan of the [Sibley Guides](https://www.sibleyguides.com/). I also love [The Warbler Guide](https://press.princeton.edu/books/paperback/9780691154824/the-warbler-guide) by Tom Stephenson and Scott Whittle.
 
 If you're looking for good books about birds or nature, I recommend Scott Weidensaul's [A World on the Wing](https://wwnorton.com/books/9780393608908), Aimee Nezhukumatathil's [World of Wonders](https://milkweed.org/author/aimee-nezhukumatathil), Robin Wall Kimmerer's [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), and [A Sand County Almanac](https://www.aldoleopold.org/about/aldo-leopold/sand-county-almanac/) by Aldo Leopold.
+
+## 8) I try to keep learning!
+
+One of the reasons birding is so wonderful is that there's always something new to learn, whether it's something small about a specific bird's behavior, a new sound, or a previously unnoticed flower/tree/insect in a bird's habitat. If I pay enough attention when I go outside, I can always learn, see, or experience something new about the world around me.

@@ -10,7 +10,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: Did I mention I love birds? See below for some of my bird-related projects!
+description: Did we mention that Holly loves birds? See below for some of her bird-related projects!
 layout: list-grid
 show_author_byline: true
 show_button_links: false

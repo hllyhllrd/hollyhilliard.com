@@ -7,15 +7,15 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
 
-  I love working with other writers! I currently offer developmental editing services for works of fiction. All genres are welcome. 
+  Holly loves working with other writers! She currently offers developmental editing services for works of fiction. All genres are welcome. 
   
-  If you’re feeling stuck with a short story or a novel, I’d love to help you figure out “what’s missing” and make your work stronger. I’ll read your draft and take notes on the major elements such as plot and character development, and I’ll ask questions to help you narrow your focus and figure out what the story is really about. After I read your work, we’ll discuss over a phone call, which I like to think of as a brainstorming conversation—not a critique session. The hope is that you’ll end the call feeling energized and ready to pick up where you left off in your draft. 
+  If you’re feeling stuck with a short story or a novel, Holly would love to help you figure out “what’s missing” and make your work stronger. She will read your draft and take notes on the major elements such as plot and character development, and she will ask questions to help you narrow your focus and figure out what the story is really about. After Holly reads your work, she will arrange a phone call with you, which will be more of a "brainstorming conversation" than a critique session. The hope is that you’ll end the call feeling energized and ready to pick up where you left off in your draft. 
   
-  For more information about availability and pricing, contact me at hilliardwrites [at] gmail [dot] com. Please include a description of your project, a few sample pages of your work, and your preferred time frame. 
+  For more information about availability and pricing, contact Holly at hilliardwrites [at] gmail [dot] com. Please include a description of your project, a few sample pages of your work, and your preferred time frame. 
   
-  For more details about my professional background, check out my [LinkedIn profile](https://www.linkedin.com/in/holly-hilliard-25639141). For more information about my editing process, you can check out [this Q&A](https://julietetelandresen.com/holly-hilliard-five-questions-with-the-author-editor/) with my client, the novelist Julie Tetel Andresen.
+  For more details about Holly's professional background, check out her [LinkedIn profile](https://www.linkedin.com/in/holly-hilliard-25639141). You can read more about her editing process in [this Q&A](https://julietetelandresen.com/holly-hilliard-five-questions-with-the-author-editor/) with Holly's client, the novelist Julie Tetel Andresen.
   
-  At this time, I do not offer sensitivity reading, line editing, or copyediting services.
+  At this time, Holly does not offer sensitivity reading, line editing, or copyediting services.
 
   
 show_outro: false
