@@ -7,9 +7,9 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
 
-  Holly loves working with other writers! She currently offers developmental editing services for works of fiction. All genres are welcome. 
+  Holly currently offers developmental editing services for works of fiction. All genres are welcome. 
   
-  If you’re feeling stuck with a short story or a novel, Holly would love to help you figure out “what’s missing” and make your work stronger. She will read your draft and take notes on the major elements such as plot and character development, and she will ask questions to help you narrow your focus and figure out what the story is really about. After Holly reads your work, she will arrange a phone call with you, which will be more of a "brainstorming conversation" than a critique session. The hope is that you’ll end the call feeling energized and ready to pick up where you left off in your draft. 
+  If you’re feeling stuck with a short story or a novel, Holly would love to help you figure out “what’s missing” and make your work stronger. She will read your draft and take notes on the major elements such as plot and character development, and she will ask questions to help you narrow your focus and figure out what the story is really about. After Holly reads your work, she will arrange a phone call with you, which will be more of a "brainstorming conversation" than a critique session. She hopes you’ll end the call feeling energized and ready to pick up where you left off in your draft. 
   
   For more information about availability and pricing, contact Holly at hilliardwrites [at] gmail [dot] com. Please include a description of your project, a few sample pages of your work, and your preferred time frame. 
   
