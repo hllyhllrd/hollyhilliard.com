@@ -1,9 +1,9 @@
 ---
 author: Holly Hilliard
 categories:
-- awards
+- publications
 date: "2024-09-01"
-date_end: "2024-09-02"
+date_end: "2024-09-01"
 draft: false
 
 excerpt: Holly's short story "Endurance" was published in Issue 75 of the [Potomac Review](https://mcblogs.montgomerycollege.edu/potomacreview/issues/issue-75/).
@@ -16,4 +16,4 @@ title: Potomac Review
 
 ---
 
-Holly's short story "Endurance" was published in Issue 75 of the [Potomac Review]((https://mcblogs.montgomerycollege.edu/potomacreview/issues/issue-75/). 
+Holly's short story "Endurance," featuring the trials and tribulations of a fictional endurance-challenge business during the COVID-19 pandemic, was published in Issue 75 of the [Potomac Review](https://mcblogs.montgomerycollege.edu/potomacreview/issues/issue-75/). 
