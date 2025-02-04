@@ -64,4 +64,4 @@ If you're looking for good books about birds or nature, I recommend Scott Weiden
 
 ## 8) I try to keep learning!
 
-One of the reasons birding is so wonderful is that there's always something new to learn, whether it's something small about a specific bird's behavior, a new sound, or a previously unnoticed flower/tree/insect in a bird's habitat. If I pay enough attention when I go outside, I can always learn, see, or experience something new about the world around me.
+One of the reasons birding is so wonderful is that there's always something new to learn, whether it's something small about a specific bird's behavior, a new sound, or a previously unnoticed flower, tree, or insect in a bird's habitat. One of the best ways to learn new things is to make friends with other birders!
