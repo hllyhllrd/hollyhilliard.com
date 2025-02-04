@@ -10,7 +10,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent talks
     text_link_url: /writing/
-description: Includes publications and awards.
+description: Includes works of fiction and creative nonfiction.
 layout: list
 show_author_byline: false
 show_button_links: false
