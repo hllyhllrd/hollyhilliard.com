@@ -9,7 +9,7 @@ intro: |
 
  # Official Bio 
   
- Holly Hilliard grew up in Hillsboro, Ohio. She received her BA from Duke University and her MFA in Creative Writing from North Carolina State University, where she was the winner of the 2018 James Hurst Prize for Fiction. She now lives with her husband and two cats in Pittsburgh, PA, where she spends her time writing, teaching, and birding.
+ Holly Hilliard grew up in Hillsboro, Ohio. She received her BA from Duke University and her MFA in Creative Writing from North Carolina State University, where she was the winner of the 2018 James Hurst Prize for Fiction. She now lives with her husband and two cats in Pittsburgh, PA and spends her time writing, teaching, and birding.
   
  # Unofficial Bio
   

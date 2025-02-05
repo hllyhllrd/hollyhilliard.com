@@ -10,7 +10,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: See below for some of Holly's bird and nature projects.
+description: Did you know Holly loves birds? See below for some of her bird and nature projects.
 layout: list-grid
 show_author_byline: true
 show_button_links: false
