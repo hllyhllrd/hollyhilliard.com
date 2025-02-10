@@ -57,11 +57,22 @@ Aside from the Explore feature, eBird also keeps a list of your personal sightin
 A word of caution: When you submit an eBird checklist, you really want to be sure about the birds you're reporting. If a bird you see is listed as "rare," you'll be asked to provide information (and maybe even photos) to support your claim, and your checklist will be flagged for review.
 
 ## 7) Read books.
-Books sparked my interest in birding. When I worked in publishing back in 2014, I read a proposal about bird migration, and it made me curious to know more. You can get a lot from a book that you can't get from birding: the nuances of a particular bird ID, the science behind a bird's behavior, the history of conservation efforts to save a particular bird and its habitat. And I'm a sucker for birder memoir, too.
+Books can spark a deeper interest in birding. When I worked in publishing back in 2014, I read a proposal about bird migration, and it made me curious to know more. You can get a lot from a book that you can't get from birding: the nuances of a particular bird ID, the science behind a bird's behavior, the history of conservation efforts to save a particular bird and its habitat. And I'm a sucker for birder memoir, too.
 
 If you want a good field guide for identifying birds, I'm a fan of the [Sibley Guides](https://www.sibleyguides.com/). I also love [The Warbler Guide](https://press.princeton.edu/books/paperback/9780691154824/the-warbler-guide) by Tom Stephenson and Scott Whittle.
 
-If you're looking for good books about birds or nature, I recommend Scott Weidensaul's [A World on the Wing](https://wwnorton.com/books/9780393608908), Aimee Nezhukumatathil's [World of Wonders](https://milkweed.org/author/aimee-nezhukumatathil), Robin Wall Kimmerer's [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), and [A Sand County Almanac](https://www.aldoleopold.org/about/aldo-leopold/sand-county-almanac/) by Aldo Leopold.
+Some of my other favorites are listed below:
+
+History/memoir:
+Scott Weidensaul's [A World on the Wing](https://wwnorton.com/books/9780393608908)
+Esther Woolfson's [Corvus: A Life with Birds](https://granta.com/products/corvus/)
+Lyanda Lynn Haupt's [Mozart's Starling](https://www.hachettebookgroup.com/titles/lyanda-lynn-haupt/mozarts-starling/9780316370875/)
+
+Essay/Poetry:
+Robin Wall Kimmerer's [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass)
+Aldo Leopold's [A Sand County Almanac](https://www.aldoleopold.org/about/aldo-leopold/sand-county-almanac/)
+Aimee Nezhukumatathil's [World of Wonders](https://milkweed.org/author/aimee-nezhukumatathil)
+Mary Oliver's [White Pine](https://maryoliver.beacon.org/2009/11/white-pine/index.html)
 
 ## 8) Always be birding / always keep learning.
 
