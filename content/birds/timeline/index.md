@@ -18,7 +18,7 @@ I began my birding journey by watching birds online. My coworkers recommended a 
 
 [FeederWatch](https://feederwatch.org/) is a program that lets you report the bird species that come to your feeder from the months of November to April. Thousands of people across the US participate, so scientists use the data to understand trends in birds' wintertime habits.
 
-During my first FeederWatch season, I was living in a second-floor apartment, but I bought one of those bird feeders that suction to the outside of your window. I was shocked to find that birds actually liked it! I got lots of black-capped chickadees and house finches and immensely entertained all winter.
+During my first FeederWatch season, I was living in a second-floor apartment, but I bought one of those bird feeders that suction to the outside of your window. I was shocked to find that birds actually liked it! I got lots of black-capped chickadees and house finches and was immensely entertained all winter.
 
 ## 3) Go on bird outings.
 
@@ -48,17 +48,16 @@ For a few years, my binoculars were enough for me. But soon I got that itch to t
 
 I recommend starting with [Merlin Bird ID](https://merlin.allaboutbirds.org/). This app is so helpful and FREE. You can input certain criteria about a bird you're seeing and it helps you narrow down a list of possible suspects. It also provides a list of the most likely birds you'll find in your particular area on any given day. And the best part is its Sound ID feature, which allows you to record birdsong and is pretty darn good at identifying which birds are making which particular sounds. It isn't perfect, but it's a good place to start.
 
-Then, once you're a bit more confident at bird ID, you might try using [eBird](https://ebird.org/home).
+Then, once you're a bit more confident at bird ID, you might try using [eBird](https://ebird.org/home), which is also free. 
 
-I had heard about eBird for a long time and was scared to use it. That's because eBird allows you to record a list of all the birds you see while you're out on a bird walk, and that data is compiled on the eBird site and made available for public use. So when you submit an eBird checklist, you really want to be sure about the birds you're reporting. If a bird you see is listed as "rare," you'll be asked to provide information (and maybe even photos) to support your claim, and your checklist will be flagged for review. So I recommend using it with caution when you first start out.
+eBird allows you to record a list of all the birds you see while you're out birding, and that data is compiled on the eBird site and made available for public viewing. The [Explore](https://ebird.org/explore) feature lets you search for your county or region, and then you can see what birds have been reported recently as well as a list of popular "hotspots" in that area. I recommend using the Explore feature to plan your own bird outings, especially if you're not sure what parks to go to. I look at hotspots every time I go on vacation and plan my bird itinerary accordingly!
 
-Once you get past the initial fear, though, eBird is awesome! It gives you a living list of all your bird walks: where you went, what you saw, who you were with. And it counts how many species you see each year, so it's a fun way to challenge yourself to see more next year!
+Aside from the Explore feature, eBird also keeps a list of your personal sightings and logs your lifelong birding stats. It counts how many species you see each year, so it's a fun way to challenge yourself to see more next year. You can also submit your bird photos and recordings, which get saved to your profile and added to the [Macaulay Library](https://www.macaulaylibrary.org/) for other birders to appreciate.
 
-Even if you don't submit checklists, you can still use eBird to find birds around you. The [Explore](https://ebird.org/explore) feature lets you search for your county, and then you can see what birds have been reported recently as well as a list of popular "hotspots" in that area.
+A word of caution: When you submit an eBird checklist, you really want to be sure about the birds you're reporting. If a bird you see is listed as "rare," you'll be asked to provide information (and maybe even photos) to support your claim, and your checklist will be flagged for review.
 
 ## 7) Read books.
-
-The first bird book I ever read was when I was still working in publishing, back in 2014. I read a few very early pages of a yet-to-be-published book about bird migration, and suddenly I found myself thinking, "Wow. Birds are amazing!" But I didn't act on that impulse for another few years.
+Books sparked my interest in birding. When I worked in publishing back in 2014, I read a proposal about bird migration, and it made me curious to know more. You can get a lot from a book that you can't get from birding: the nuances of a particular bird ID, the science behind a bird's behavior, the history of conservation efforts to save a particular bird and its habitat. And I'm a sucker for birder memoir, too.
 
 If you want a good field guide for identifying birds, I'm a fan of the [Sibley Guides](https://www.sibleyguides.com/). I also love [The Warbler Guide](https://press.princeton.edu/books/paperback/9780691154824/the-warbler-guide) by Tom Stephenson and Scott Whittle.
 
@@ -66,4 +65,6 @@ If you're looking for good books about birds or nature, I recommend Scott Weiden
 
 ## 8) Always be birding / always keep learning.
 
-One of the reasons birding is so wonderful is that you can do it anywhere. Birds are all around us, and there's always something new to learn, whether it's a specific bird's behavior, a new sound, or a previously unnoticed flower, tree, or insect in a bird's habitat. I'm so grateful to have found this new and joyful hobby in adulthood--and I'm so excited for any bird-curious readers out there who might get to experience it all for the first time. I hope our paths cross on a wooded trail some beautiful spring day, in one of my nature writing classes, or maybe even on my bird-themed [Substack](https://hollyhilliard.substack.com/).
+One of the reasons birding is so wonderful is that you can do it anywhere. Birds are all around us, and there's always something new to learn, whether it's a specific bird's behavior, a new sound, or a previously unnoticed flower, tree, or insect in a bird's habitat. I'm so grateful to have found this new and joyful hobby in adulthood--and I'm so excited for any bird-curious readers out there who might get to experience it all for the first time. 
+
+I hope our paths cross on a wooded trail some beautiful spring day, in one of my nature writing classes, or maybe even on my bird-themed [Substack](https://hollyhilliard.substack.com/).
