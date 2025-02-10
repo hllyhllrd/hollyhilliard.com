@@ -63,16 +63,13 @@ If you want a good field guide for identifying birds, I'm a fan of the [Sibley G
 
 Some of my other favorites are listed below:
 
-History/memoir:
-Scott Weidensaul's [A World on the Wing](https://wwnorton.com/books/9780393608908)
-Esther Woolfson's [Corvus: A Life with Birds](https://granta.com/products/corvus/)
-Lyanda Lynn Haupt's [Mozart's Starling](https://www.hachettebookgroup.com/titles/lyanda-lynn-haupt/mozarts-starling/9780316370875/)
+History/memoir: 
+
+Scott Weidensaul's [A World on the Wing](https://wwnorton.com/books/9780393608908); Esther Woolfson's [Corvus: A Life with Birds](https://granta.com/products/corvus/); Lyanda Lynn Haupt's [Mozart's Starling](https://www.hachettebookgroup.com/titles/lyanda-lynn-haupt/mozarts-starling/9780316370875/)
 
 Essay/Poetry:
-Robin Wall Kimmerer's [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass)
-Aldo Leopold's [A Sand County Almanac](https://www.aldoleopold.org/about/aldo-leopold/sand-county-almanac/)
-Aimee Nezhukumatathil's [World of Wonders](https://milkweed.org/author/aimee-nezhukumatathil)
-Mary Oliver's [White Pine](https://maryoliver.beacon.org/2009/11/white-pine/index.html)
+
+Robin Wall Kimmerer's [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass); Aldo Leopold's [A Sand County Almanac](https://www.aldoleopold.org/about/aldo-leopold/sand-county-almanac/); Aimee Nezhukumatathil's [World of Wonders](https://milkweed.org/author/aimee-nezhukumatathil); Mary Oliver's [White Pine](https://maryoliver.beacon.org/2009/11/white-pine/index.html)
 
 ## 8) Always be birding / always keep learning.
 
