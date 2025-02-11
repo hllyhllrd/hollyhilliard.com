@@ -118,6 +118,11 @@ enableEmoji = true
     title = "Birds"
     url = "/birds/"
     weight = 4
+  [[menu.header]]
+    name = "Résumé"
+    title = "Résumé"
+    url = "/static/HilliardResume.pdf"
+    weight = 5
     
   # Configure footer  
 #  [[menu.footer]]
