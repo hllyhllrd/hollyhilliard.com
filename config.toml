@@ -121,7 +121,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Résumé"
     title = "Résumé"
-    url = "/static/HilliardResume.pdf"
+    url = "/resume/HilliardResume.pdf"
     weight = 5
     
   # Configure footer  
